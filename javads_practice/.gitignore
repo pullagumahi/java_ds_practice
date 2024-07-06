@@ -1,0 +1,12 @@
+##############################
+## Java
+##############################
+.mtj.tmp/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*

@@ -1,4 +1,4 @@
-package maxoftwoNo;
+package addition.maxoftwoNo;
 
 import java.util.*;
 
@@ -15,7 +15,7 @@ public class Max1 {
         return Math.max(a, b);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {  
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter a value");
         int a = obj.nextInt();
